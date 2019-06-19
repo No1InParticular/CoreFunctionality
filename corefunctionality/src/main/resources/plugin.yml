@@ -1,0 +1,10 @@
+name: CoreFunctionality
+main: com.no1inparticular.corefunctionality.CoreFunctionality
+author: _No1InParticular
+version: 1.0
+softdepend: [Vault, Citizens]
+description: A core functionality plugin, providing a range of useful commands and features
+commands:
+  corefunctionality:
+    description: Main Corefunctionality Command
+    aliases: [cf, coref, cfunctionality]
